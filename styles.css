@@ -19,9 +19,10 @@
 */
 .tiles {
     list-style: none;
-    margin: 1em 0;
+    margin: 1em auto;
     padding: 0;
     text-align: center;
+    max-width: calc(8 * 200px);
 }
 
 .tile-details-visible .tile .tile-details {
