@@ -23,7 +23,7 @@
           }
         }
 
-        var sortedArrayOfColorObjects = sortColors(unsortedArrayOfColorObjects);
+        var sortedArrayOfColorObjects = unsortedArrayOfColorObjects;
 
         // Empty first
         $tilesContainer.empty();
